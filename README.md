@@ -4,7 +4,7 @@
 # *Full-Stack Developer*
 
 
-I'm a Full-Stack Developer, facilitating cutting-edge engineering solutions with a wide range of e-commerce applications and technology skills. Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website designs to scale. Extensive expertise in significant system architecture development and administration, network design, and configuration.
+I'm an enthusiastic Full-Stack Developer specializing in Java Spring Boot and React. My passion lies in crafting scalable and efficient web applications to provide users with a seamless and enjoyable experience. With a keen eye for detail and a commitment to staying updated with the latest technologies, I strive to create innovative solutions that push the boundaries of what's possible in the world of web development.
 
 * 🌍  I'm based in Casablanca, Morocco
 
